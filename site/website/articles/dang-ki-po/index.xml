@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d2bc</objectGroupId>
+	<objectId>d2bc782d-77c3-9ef6-ce3c-6856db23f96f</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;ol style="box-sizing: border-box; padding: 0px; margin-bottom: 26px; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;" type="1"&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 0px;"&gt;Truy cập v&amp;agrave;o link&amp;nbsp;&lt;a style="box-sizing: border-box; background-color: transparent; color: #22a0d6; text-decoration-line: none;" href="https://register.payoneer.com/"&gt;&lt;strong style="box-sizing: border-box;"&gt;https://register.payoneer.com/&amp;nbsp;&lt;/strong&gt;&lt;/a&gt;k&amp;eacute;o xuống ph&amp;iacute;a dưới v&amp;agrave; nhấn n&amp;uacute;t Đăng k&amp;yacute;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul style="box-sizing: border-box; padding: 0px; margin-bottom: 26px; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 0px;"&gt;Điền th&amp;ocirc;ng tin c&amp;aacute; nh&amp;acirc;n như y&amp;ecirc;u cầu rồi nhấn TIẾP TỤC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Nếu giao diện đăng k&amp;yacute; kh&amp;ocirc;ng hiện tiếng Việt; ở phần &amp;ldquo;Select your language&amp;rdquo; ở ph&amp;iacute;a tr&amp;ecirc;n c&amp;ugrave;ng b&amp;ecirc;n phải, bạn chọn Tiếng Việt.&lt;/p&gt;
+&lt;ul style="box-sizing: border-box; padding: 0px; margin-bottom: 26px; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 0px;"&gt;Điền th&amp;ocirc;ng tin li&amp;ecirc;n hệ chi tiết v&amp;agrave; ch&amp;iacute;nh x&amp;aacute;c rồi nhấn TIẾP TỤC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Lưu &amp;yacute;:&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Th&amp;ocirc;ng tin đăng k&amp;yacute; phải ch&amp;iacute;nh x&amp;aacute;c v&amp;agrave; cụ thể để c&amp;ograve;n verify th&amp;ocirc;ng tin v&amp;agrave; nhận thẻ sau n&amp;agrave;y. 1 người đăng k&amp;yacute; nhiều t&amp;agrave;i khoản sẽ bị kh&amp;oacute;a to&amp;agrave;n bộ.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Địa chỉ: ghi ch&amp;iacute;nh x&amp;aacute;c địa chỉ bạn đang sinh sống (kh&amp;ocirc;ng dấu) để Payoneer c&amp;oacute; thể ship thẻ về cho bạn sau n&amp;agrave;y; địa chỉ gồm 2 d&amp;ograve;ng, mỗi d&amp;ograve;ng kh&amp;ocirc;ng qu&amp;aacute; 30 k&amp;yacute; tự. D&amp;ograve;ng tr&amp;ecirc;n kh&amp;ocirc;ng đủ th&amp;igrave; ghi xuống d&amp;ograve;ng dưới.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;City: t&amp;ecirc;n th&amp;agrave;nh phố.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;M&amp;atilde; bưu ch&amp;iacute;nh / Zip: b&amp;acirc;y giờ l&amp;agrave; 6 số, xem th&amp;ecirc;m danh s&amp;aacute;ch M&amp;atilde; bưu điện Zip Code/Postal Code mới ở Việt Nam.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Di động: m&amp;atilde; nước +84, số điện thoại bạn bỏ số 0 ở đầu.&lt;/p&gt;
+&lt;ul style="box-sizing: border-box; padding: 0px; margin-bottom: 26px; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 0px;"&gt;Điền th&amp;ocirc;ng tin t&amp;agrave;i khoản v&amp;agrave; bảo mật rồi nhấn TIẾP TỤC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Lưu &amp;yacute;: CMND ghi sai sau n&amp;agrave;y sẽ bị kh&amp;oacute;a t&amp;agrave;i khoản. Mật khẩu &amp;iacute;t nhất 7 k&amp;yacute; tự v&amp;agrave; bao gồm &amp;iacute;t nhất 1 số.&lt;/p&gt;
+&lt;ul style="box-sizing: border-box; padding: 0px; margin-bottom: 26px; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 0px;"&gt;Điền th&amp;ocirc;ng tin t&amp;agrave;i khoản ng&amp;acirc;n h&amp;agrave;ng của bạn v&amp;agrave; nhấn GỬI để ho&amp;agrave;n tất.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Lưu &amp;yacute;:&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;To&amp;agrave;n bộ th&amp;ocirc;ng tin ghi tiếng anh hoặc tiếng Việt kh&amp;ocirc;ng dấu. T&amp;ecirc;n Ng&amp;acirc;n h&amp;agrave;ng: bạn c&amp;oacute; thể search cho nhanh.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;T&amp;ecirc;n Chi nh&amp;aacute;nh: nơi bạn đăng k&amp;yacute; t&amp;agrave;i khoản ng&amp;acirc;n h&amp;agrave;ng. C&amp;oacute; thể li&amp;ecirc;n hệ Ng&amp;acirc;n h&amp;agrave;ng để hỏi lại t&amp;ecirc;n cho chắc.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;T&amp;ecirc;n T&amp;agrave;i khoản: t&amp;ecirc;n của bạn hoặc người th&amp;acirc;n (sau n&amp;agrave;y cần phải x&amp;aacute;c thực mối quan hệ).&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Ngay sau khi li&amp;ecirc;n kết ng&amp;acirc;n h&amp;agrave;ng, phần đăng k&amp;yacute; của bạn đ&amp;atilde; được ho&amp;agrave;n tất. Bạn vui l&amp;ograve;ng chờ để Payoneer c&amp;oacute; thể xem v&amp;agrave; duyệt t&amp;agrave;i khoản của bạn. Bạn c&amp;oacute; thể li&amp;ecirc;n hệ bộ phận Chăm S&amp;oacute;c Kh&amp;aacute;ch H&amp;agrave;ng bất cứ l&amp;uacute;c n&amp;agrave;o để kiểm tra t&amp;igrave;nh trạng t&amp;agrave;i khoản của bạn.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Khoảng một v&amp;agrave;i ng&amp;agrave;y sau bạn sẽ nhận được email c&amp;oacute; nội dung như thế n&amp;agrave;y:&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Nghĩa l&amp;agrave; bạn đ&amp;atilde; ho&amp;agrave;n th&amp;agrave;nh xong Bước 1: Đăng k&amp;yacute;. Giờ bạn c&amp;oacute; thể đăng nhập v&amp;agrave;o t&amp;agrave;i khoản Payoneer của ở link myaccount.payoneer.com với th&amp;ocirc;ng tin:&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;T&amp;ecirc;n đăng nhập: email đăng k&amp;yacute; Payoneer&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Mật khẩu: nhập l&amp;uacute;c đăng k&amp;yacute;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Khi đăng nhập v&amp;agrave;o Payoneer, bạn sẽ được y&amp;ecirc;u cầu tạo 2 c&amp;acirc;u hỏi bảo mật c&amp;ograve;n lại. Như vậy tổng cộng l&amp;agrave; 3 c&amp;acirc;u &amp; đừng qu&amp;ecirc;n lưu lại để sau n&amp;agrave;y đổi mật khẩu, r&amp;uacute;t tiền, chuyển tiền Payoneer sẽ hỏi bạn c&amp;acirc;u trả lời cho những c&amp;acirc;u hỏi n&amp;agrave;y. L&amp;uacute;c n&amp;agrave;y chưa thể l&amp;agrave;m g&amp;igrave; th&amp;ecirc;m với t&amp;agrave;i khoản Payoneer của bạn v&amp;igrave; y&amp;ecirc;u cầu đăng k&amp;yacute; vẫn đang trong qu&amp;aacute; tr&amp;igrave;nh duyệt.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;C&amp;oacute; thể bạn sẽ nhận được email y&amp;ecirc;u cầu x&amp;aacute;c thực ảnh chụp CMND ở bước n&amp;agrave;y; hoặc sau khi Y&amp;ecirc;u cầu thẻ. H&amp;atilde;y nhấn link Upload Documents trong email nhận được; điền c&amp;aacute;c th&amp;ocirc;ng tin cần thiết như b&amp;ecirc;n dưới rồi upload ảnh l&amp;ecirc;n l&amp;agrave; xong.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Y&amp;ecirc;u cầu Thẻ Payoneer&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Thẻ Payoneer cho ph&amp;eacute;p bạn sử dụng để thanh to&amp;aacute;n online; hoặc r&amp;uacute;t tiền mặt trực tiếp từ những c&amp;acirc;y ATM c&amp;oacute; logo biểu tượng visa. Đặt thẻ v&amp;agrave; nhận thẻ ho&amp;agrave;n to&amp;agrave;n miễn ph&amp;iacute;; tuy nhi&amp;ecirc;n bạn cần c&amp;acirc;n nhắc một số điều sau trước khi quyết định:&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Bạn kh&amp;ocirc;ng cần thẻ vẫn r&amp;uacute;t được tiền về trực tiếp t&amp;agrave;i khoản ng&amp;acirc;n h&amp;agrave;ng, chi ph&amp;iacute; rẻ hơn khi r&amp;uacute;t ở ATM v&amp;agrave; c&amp;oacute; tỉ gi&amp;aacute; tốt hơn. Thời gian nhận trong ng&amp;agrave;y, s&amp;aacute;ng r&amp;uacute;t chiều nhận được lu&amp;ocirc;n!&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Sử dụng thẻ sẽ mất chi ph&amp;iacute; h&amp;agrave;ng năm 29.95$.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Chi ph&amp;iacute; sử dụng thẻ khi thanh to&amp;aacute;n online hoặc r&amp;uacute;t tiền ở c&amp;acirc;y ATM kh&amp;aacute; lớn.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Do đ&amp;oacute;, nếu kh&amp;ocirc;ng thật sự cần thiết, bạn kh&amp;ocirc;ng n&amp;ecirc;n Y&amp;ecirc;u cầu thẻ Payoneer l&amp;agrave;m g&amp;igrave;. Tham khảo b&amp;agrave;i viết n&amp;agrave;y để hiểu r&amp;otilde; hơn.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Ngay sau khi đơn đăng k&amp;yacute; của bạn được duyệt, h&amp;atilde;y đăng nhập v&amp;agrave;o trang My Account v&amp;agrave; đặt thẻ Payoneer cho bạn.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Thẻ sẽ được chuyển về tận nh&amp;agrave; bạn theo địa chỉ đ&amp;atilde; đăng k&amp;yacute; với dịch vụ của DHL, thời gian c&amp;oacute; thể mất 1 đến 2 th&amp;aacute;ng t&amp;ugrave;y địa điểm. Để theo d&amp;otilde;i qu&amp;aacute; tr&amp;igrave;nh vận chuyển thẻ, bạn h&amp;atilde;y tham khảo th&amp;ecirc;m b&amp;agrave;i viết n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Đến bước n&amp;agrave;y l&amp;agrave; xem như ho&amp;agrave;n th&amp;agrave;nh, bạn c&amp;oacute; thể nhận tiền ngay từ c&amp;aacute;c đối t&amp;aacute;c của Payoneer rồi đấy. Tuy chưa nhận được thẻ Payoneer Mastercard nhưng bạn đ&amp;atilde; c&amp;oacute; t&amp;agrave;i khoản US để nhận tiền. Sau khi nhận được thẻ, c&amp;aacute;c bạn h&amp;atilde;y đăng nhập v&amp;agrave;o t&amp;agrave;i khoản Payoneer sử dụng email v&amp;agrave; mật khẩu đ&amp;atilde; đăng k&amp;yacute; trước đ&amp;oacute; v&amp;agrave; thực hiện theo hướng dẫn gửi k&amp;egrave;m để k&amp;iacute;ch hoạt thẻ.&lt;/p&gt;</section_html>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>dang-ki-po</folder-name>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
+	<internal-name>Payoneer – Hướng dẫn đăng ký tài khoản Payoneer</internal-name>
+	<title_t>Payoneer – Hướng dẫn đăng ký tài khoản Payoneer</title_t>
+	<subject_t>Payoneer – Hướng dẫn đăng ký tài khoản Payoneer</subject_t>
+	<author_s>Maslow Ecom</author_s>
+	<disabled>false</disabled>
+	<featured_b>true</featured_b>
+	<summary_t>Lưu ý:
+
+Thông tin đăng ký phải chính xác và cụ thể để còn verify thông tin và nhận thẻ sau này. 1 người đăng ký nhiều tài khoản sẽ bị khóa toàn bộ.
+
+Địa chỉ: ghi chính xác địa chỉ bạn đang sinh sống (không dấu) để Payoneer có thể ship thẻ về cho bạn sau này; địa chỉ gồm 2 dòng, mỗi dòng không quá 30 ký tự. Dòng trên không đủ thì ghi xuống dòng dưới.</summary_t>
+	<image_s>/static-assets/item/images/2021/01/17/payoneer.png</image_s>
+	<categories_o>	<item>	<key>entertainment</key>
+	<value_smv>Các cổng thanh toán quốc tế</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments_o>
+	<createdDate>2021-01-17T02:27:18.303Z</createdDate>
+	<createdDate_dt>2021-01-17T02:27:18.303Z</createdDate_dt>
+	<lastModifiedDate>2021-01-17T02:27:18.303Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-17T02:27:18.303Z</lastModifiedDate_dt>
+	<date_dt>2021-01-16T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
