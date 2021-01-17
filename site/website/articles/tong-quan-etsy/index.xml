@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bc56</objectGroupId>
+	<objectId>bc564597-af94-942f-4e6a-518be6dcab12</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Etsy l&amp;agrave; g&amp;igrave;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Etsy l&amp;agrave; một cộng đồng người mua v&amp;agrave; người b&amp;aacute;n trực tuyến tương tự như eBay hay Amazon. Điểm mạnh l&amp;agrave; n&amp;oacute; tập trung v&amp;agrave;o h&amp;agrave;ng thủ c&amp;ocirc;ng hoặc h&amp;agrave;ng cổ điển.&amp;nbsp;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Hầu hết c&amp;aacute;c sản phẩm được b&amp;aacute;n tr&amp;ecirc;n Etsy thuộc l&amp;agrave; đồ nghệ thuật, thủ c&amp;ocirc;ng, đồ trang sức, h&amp;agrave;ng giấy, đồ gia dụng,&amp;hellip;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Quy tr&amp;igrave;nh tổng quan Etsy&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Quy tr&amp;igrave;nh tổng quan Etsy gồm 3 giai đoạn:&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Giai đoạn 1&lt;/strong&gt;: Tạo t&amp;agrave;i khoản Paypal, t&amp;agrave;i khoản n&amp;agrave;y sẽ nhận tiền (USD) của kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Để tạo t&amp;agrave;i khoản paypal, cần chuẩn bị:&lt;/p&gt;
+&lt;ul style="box-sizing: border-box; padding: 0px; margin-bottom: 26px; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 0px;"&gt;1 Thẻ visa/mastercard bất k&amp;igrave; của 1 bank VN. V&amp;iacute; dụ: Vietcombank, ACB, Techcombank&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul style="box-sizing: border-box; padding: 0px; margin-bottom: 26px; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;
+&lt;li style="box-sizing: border-box; line-height: inherit; margin-left: 21px; margin-bottom: 0px;"&gt;Chứng minh thư nh&amp;acirc;n d&amp;acirc;n 2 mặt hoặc Passport.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Giai đoạn 2&lt;/strong&gt;: Tạo t&amp;agrave;i khoản Etsy, li&amp;ecirc;n kết t&amp;agrave;i khoản Paypal.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Để tạo t&amp;agrave;i khoản Etsy, cần chuẩn bị 1 thẻ visa/mastercard.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;&lt;strong style="box-sizing: border-box;"&gt;Giai đoạn 3&lt;/strong&gt;: Chụp ảnh, up sản phẩm l&amp;ecirc;n store Etsy v&amp;agrave; chờ đợi kh&amp;aacute;ch mua h&amp;agrave;ng. Sau đ&amp;oacute; r&amp;uacute;t tiền từ t&amp;agrave;i khoản Paypal về bank VN.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: #222222; font-family: Verdana, Geneva, sans-serif; font-size: 15px; background-color: #ffffff;"&gt;Để đăng sản phẩm l&amp;ecirc;n Etsy, bạn cần chuẩn bị h&amp;igrave;nh ảnh đ&amp;atilde; chụp sẵn, n&amp;ecirc;n c&amp;oacute; từ 3-5 ảnh cho 1 sản phẩm dc chụp từ c&amp;aacute;c g&amp;oacute;c độ kh&amp;aacute;c nhau. Sau đ&amp;oacute; sẽ tiến h&amp;agrave;nh list sản phẩm.&lt;/p&gt;</section_html>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>tong-quan-etsy</folder-name>
+	<internal-name>Tổng quan bán hàng trên Etsy</internal-name>
+	<title_t>Tổng quan bán hàng trên Etsy</title_t>
+	<subject_t>Tổng quan bán hàng trên Etsy</subject_t>
+	<author_s>Maslow Ecom</author_s>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
+	<categories_o>	<item>	<key>technology</key>
+	<value_smv>Kiến thức chung</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments_o>
+	<image_s>/static-assets/item/images/2021/01/17/124441072_4956094981098715_3035625130635463890_n.jpg</image_s>
+	<summary_t>Etsy là gì?
+
+Etsy là một cộng đồng người mua và người bán trực tuyến tương tự như eBay hay Amazon. Điểm mạnh là nó tập trung vào hàng thủ công hoặc hàng cổ điển. 
+
+Hầu hết các sản phẩm được bán trên Etsy thuộc là đồ nghệ thuật, thủ công, đồ trang sức, hàng giấy, đồ gia dụng,…</summary_t>
+	<createdDate>2021-01-17T02:52:09.257Z</createdDate>
+	<createdDate_dt>2021-01-17T02:52:09.257Z</createdDate_dt>
+	<lastModifiedDate>2021-01-17T02:52:09.257Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-17T02:52:09.257Z</lastModifiedDate_dt>
+	<date_dt>2021-01-16T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
