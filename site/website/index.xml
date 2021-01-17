@@ -1,38 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright (C) 2007-2020 Crafter Software Corporation. All Rights Reserved.
-  ~
-  ~ This program is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License version 3 as published by
-  ~ the Free Software Foundation.
-  ~
-  ~ This program is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  -->
-
 <page>
-	<content-type>/page/home</content-type>	<display-template>/templates/web/pages/home.ftl</display-template>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/pages/home.ftl</display-template>
+	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<placeInNav>false</placeInNav>
 	<file-name>index.xml</file-name>
-	<internal-name>Home</internal-name>
+	<internal-name>Trang chủ</internal-name>
 	<orderDefault_f>-1</orderDefault_f>
 	<objectGroupId>8d7f</objectGroupId>
 	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2017-5-18T15:52:21.000Z</lastModifiedDate>
-	<lastModifiedDate_dt>2017-5-18T15:52:21.000Z</lastModifiedDate_dt>
-	<title_t>Editorial</title_t>
-	<hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
-	<hero_title_html>&lt;h1&gt;&lt;span&gt;Hi, I&amp;rsquo;m Editorial&lt;/span&gt;&lt;/h1&gt;
-&lt;h3&gt;&lt;span style="font-size: 1.5em;"&gt;by HTML5 UP&lt;/span&gt;&lt;/h3&gt;</hero_title_html>
+	<lastModifiedDate>2021-01-17T03:02:04.576Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-17T03:02:04.576Z</lastModifiedDate_dt>
+	<title_t>Trang chủ</title_t>
+	<hero_text_html>&lt;p&gt;&lt;span style="color: #666666; font-family: 'Open Sans', arial, sans-serif; font-size: 20px; background-color: #ffffff;"&gt;Được th&amp;agrave;nh lập v&amp;agrave;o năm 2018, 69M Holdings l&amp;agrave; một trong những C&amp;ocirc;ng ty khởi nghiệp h&amp;agrave;ng đầu của Việt Nam trong ng&amp;agrave;nh Thương mại điện tử th&amp;agrave;nh c&amp;ocirc;ng trong việc ph&amp;aacute;t triển c&amp;aacute;c sản phẩm in theo y&amp;ecirc;u cầu của dropshipping như T-shirt, Hoodie, Canvas, Tumbler, Blanket, v.v. Ch&amp;uacute;ng t&amp;ocirc;i b&amp;aacute;n h&amp;agrave;ng triệu sản phẩm cho lớn ở một số thị trường như Mỹ, Anh, CA hoặc c&amp;aacute;c thị trường xa hơn bao gồm GB, Brazil, Iceland, Philippines, Honduras, Puerto Rico&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;</hero_text_html>
+	<hero_title_html>&lt;h1&gt;Maslow Ecom Academy&lt;/h1&gt;</hero_title_html>
 	<features_o item-list="true">	<item datasource="features" inline="true">	<key>a89386c4-a205-2681-2db1-c3606f714411</key>
 	<value>One</value>
 <component id="a89386c4-a205-2681-2db1-c3606f714411">
@@ -115,11 +100,13 @@
 </component>
 	</item></features_o>
 	<header/>
-	<hero_image_s>/static-assets/images/strawberries.jpg</hero_image_s>
-	<left-rail_o>	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
+	<hero_image_s>/static-assets/item/images/2021/01/17/s006-440x440-1.jpg</hero_image_s>
+	<left-rail_o item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
 	<value>Left Rail with Latest Articles</value>
 	<include>/site/components/left-rails/left-rail-with-latest-articles.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></left-rail_o>
-	<features_title_t>Erat lacinia</features_title_t>
+	<features_title_t>Thông Tin Cơ Bản</features_title_t>
+	<disabled>false</disabled>
+	<header_o item-list="true"/>
 </page>
